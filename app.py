@@ -9,8 +9,8 @@ class Amazon:
     def menu(self):
 
        user_input =  input("""
-        1. Enter 1 to register:
-        2. Enter 2 to login:
+        1. Please Enter 1 to register:
+        2. Please Enter 2 to login:
         3. Anything else to leave:
         """)
 
